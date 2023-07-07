@@ -100,7 +100,7 @@ a:hover {
   }
   
   .button:hover {
-    background-color: #2980b9;
+    background-color: #b4a3a3;
   }
   
   .button:active {
@@ -120,4 +120,9 @@ a:hover {
     margin: 0;
     padding: 10px;
     background-color: #fff;
+  }
+  .rg button{
+    color: #000;
+  }
+  .rg button :hover{
   }
